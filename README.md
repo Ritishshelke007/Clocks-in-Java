@@ -1,5 +1,5 @@
 # Clocks-in-Java
->This Project is combination of Analog and Digital Clocks in Java<br/>
+>This Project is combination of Analog and Digital Clocks in Java which also include tick sound effect<br/>
 >Made with Applets in Java
 
 ## Run in Command prompt
